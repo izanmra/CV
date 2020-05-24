@@ -318,3 +318,27 @@
                 margin:-5% 0 25px -5%;
             }
         }
+
+        @media screen and (max-width: 400px) {
+         
+            nav.menu ul a {
+                padding:15px;
+                font-size: 14px;
+            }
+         
+            .sidebar {
+                display:none
+            }
+            .post-info {
+                display: block;
+                padding: 5px;
+            }
+         
+            .conteudo {
+                margin:25px auto;
+            }
+         
+            .conteudo img {
+                margin:-5% 0 25px -5%;
+            }
+        }
