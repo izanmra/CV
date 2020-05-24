@@ -305,6 +305,7 @@
          
             .sidebar {
                 width: 100%;
+                float: none;
                 margin:25px auto;
             }
 
@@ -335,6 +336,7 @@
          
             .sidebar {
                 width: 100%;
+                float: none;
                 margin:25px auto;
             }
 
