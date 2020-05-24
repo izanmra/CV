@@ -304,9 +304,13 @@
             }
          
             .sidebar {
-                width: fit-content;
                 margin:25px auto;
             }
+
+            .sidebar .widget {
+                padding:5%;
+            }
+
             .post-info {
                 display: block;
                 padding: 5px;
@@ -329,9 +333,13 @@
             }
          
             .sidebar {
-                width: fit-content;
                 margin:25px auto;
             }
+
+            .sidebar .widget {
+                padding:5%;
+            }
+
             .post-info {
                 display: block;
                 padding: 5px;
