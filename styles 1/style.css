@@ -19,7 +19,7 @@
         }
 
         body {
-            background: #5c5959;
+            background: #5a5757;
             margin:0;
             font-family: Helvetica;
         }
@@ -227,7 +227,7 @@
         }
 
         .footer .copy {
-            color: #383636;
+            color: white;
             text-align: center;
             font-size: 12px;
         }
