@@ -304,6 +304,7 @@
             }
          
             .sidebar {
+                display: block;
                 width: 100%;
             }
 
@@ -333,6 +334,7 @@
             }
          
             .sidebar {
+                display: block;
                 width: 100%;
             }
 
