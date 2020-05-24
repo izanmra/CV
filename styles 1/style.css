@@ -304,7 +304,8 @@
             }
          
             .sidebar {
-                margin: 20px auto;
+                width:100%;
+                margin:25px 0 0;
             }
             .post-info {
                 display: block;
@@ -328,7 +329,8 @@
             }
          
             .sidebar {
-                margin: 20px auto;
+                width:100%;
+                margin:25px 0 0;
             }
             .post-info {
                 display: block;
