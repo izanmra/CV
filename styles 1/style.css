@@ -306,7 +306,8 @@
                 display:none
             }
             .post-info {
-                display:none;
+                display: block;
+                padding: 5px;
             }
          
             .conteudo {
