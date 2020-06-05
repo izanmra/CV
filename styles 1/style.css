@@ -184,6 +184,14 @@
             font-family: Helvetica-Bold;
         }
 
+        .conteudo h2 {
+            padding:0;
+            margin:0 0 15px;
+            font-weight: normal;
+            color: rgb(66, 65, 65);
+            font-family: Helvetica-Bold;
+        }
+
         .conteudo .isi {
             font-family: Helvetica;
             text-align: justify;
